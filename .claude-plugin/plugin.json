@@ -1,0 +1,12 @@
+{
+  "name": "claude-ski",
+  "displayName": "Claude Ski",
+  "version": "0.1.0",
+  "description": "A terminal downhill skiing arcade game for Claude Code",
+  "keywords": ["terminal", "game", "ascii", "skiing", "claude-code"],
+  "author": {
+    "name": "claude-ski contributors"
+  },
+  "license": "MIT",
+  "defaultEnabled": true
+}

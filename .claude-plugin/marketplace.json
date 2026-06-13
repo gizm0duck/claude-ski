@@ -1,0 +1,15 @@
+{
+  "name": "claude-ski-marketplace",
+  "owner": { "name": "claude-ski contributors" },
+  "metadata": {
+    "description": "Local marketplace hosting the Claude Ski terminal game plugin",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-ski",
+      "source": "./",
+      "description": "A terminal downhill skiing arcade game for Claude Code"
+    }
+  ]
+}
