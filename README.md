@@ -2,7 +2,7 @@
 
 A playable, **terminal** downhill skiing arcade game for Claude Code — an
 original ASCII/ANSI homage to the classic 1990s downhill skiing games. It runs
-entirely inside your terminal (no browser, no GUI window), takes over the
+entirely inside your terminal by running `claude-ski:play` (no browser, no GUI window), takes over the
 screen with the alternate buffer and raw keyboard input, and restores
 everything cleanly when you quit.
 
