@@ -6,6 +6,8 @@ entirely inside your terminal (no browser, no GUI window), takes over the
 screen with the alternate buffer and raw keyboard input, and restores
 everything cleanly when you quit.
 
+![Claude Ski title screen](assets/title-screen.png)
+
 Steer your skier down an endless slope, dodge trees and rocks of all sizes,
 launch off jumps for bonus points, build up speed and distance... and then
 outrun the abominable **yeti** that wakes up and hunts you down after about
@@ -236,6 +238,8 @@ claude-ski/
 │     └─ SKILL.md          # defines /claude-ski:play
 ├─ scripts/
 │  └─ claude-ski.py        # the game (stdlib only)
+├─ assets/
+│  └─ title-screen.png     # README screenshot
 ├─ README.md
 └─ LICENSE                 # MIT
 ```
